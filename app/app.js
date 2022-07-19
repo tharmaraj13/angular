@@ -10,7 +10,7 @@ angular.module('playApp', ['ui.router'])
         $stateProvider
             .state('main', {
                 //url: '',
-                template: '<h1>Welcome to my portfolio website!</h1><p>In this website you will find information about me and my projects</p>'
+                template: '<h1>Welcome to my Sample website!</h1><p>In this website you will find information about me and my projects</p>'
             })
             .state('portfolio', {
                 //url: '/portfolio',
